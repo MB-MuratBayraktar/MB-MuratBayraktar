@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MB-MuratBayraktar/MB-MuratBayraktar/master/wave.gif" width="30px">
+# Hello, folks! <img src="https://github.com/MB-MuratBayraktar/dataFiles/blob/main/waving-hand-joypixels.gif" width="30px">
 view raw
 <!--
 **MB-MuratBayraktar/MB-MuratBayraktar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
