@@ -1,4 +1,12 @@
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/tools-unix_shell-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/tools-Kubernetes-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-TensorFlow-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Libraries-Sklearn-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 # Hello, everyone! <img src="https://github.com/MB-MuratBayraktar/dataFiles/blob/main/waving-hand-joypixels.gif" width="30px">
+
 Welcome to my Github profile!
 
 My name is Murat, I am a machine learning engineer working on several real world projects with different international partners. 
@@ -14,3 +22,5 @@ My name is Murat, I am a machine learning engineer working on several real world
 <!-- Links to your social media accounts -->
 
 [2]: https://www.linkedin.com/in/mr-muratbayraktar/
+
+
