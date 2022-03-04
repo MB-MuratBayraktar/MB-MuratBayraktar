@@ -14,7 +14,7 @@ Welcome to my Github profile!
 My name is Murat, I am a machine learning engineer working on several real world projects with different international partners. 
 
 - 💻 I implement ML algorithms to develop practical solutions!
-- 🌱 I love what I do. A limitless learner and keen for new challenges 
+- 🌱 I love what I do. This is why I consider my self a limitless learner 
 - ⚡ Fun facts: Apart from Python, I can speak 4 languages (EN/DE/TR/AR) 😄 
 - 💬 Feel free to ask me about the algorithms used
 - 📫 How to reach me: LinkedIn [![LinkedIn][2.2]][2].
