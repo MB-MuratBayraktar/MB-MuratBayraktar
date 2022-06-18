@@ -6,7 +6,7 @@
 ![](https://img.shields.io/badge/Libraries-Sklearn-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2C73D2)
 ![](https://img.shields.io/badge/Code-Dart_Flutter-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2C73D2)
 
-# Hello, everyone! <img src="https://github.com/MB-MuratBayraktar/dataFiles/blob/main/waving-hand-joypixels.gif" height="250" width="250"/>
+# Hello, everyone! <img src="https://github.com/MB-MuratBayraktar/dataFiles/blob/main/waving-hand-joypixels.gif" height="150" width="150"/>
 
 Welcome to my Github profile!
 
