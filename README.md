@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2C73D2)
-![](https://img.shields.io/badge/Framework-Pytorch-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2C73D2)
 ![](https://img.shields.io/badge/Framework-TensorFlow-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2C73D2)
+![](https://img.shields.io/badge/Framework-Pytorch-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2C73D2)
 ![](https://img.shields.io/badge/Tools-MLFlow-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2C73D2)
 ![](https://img.shields.io/badge/AutoML-PyCaret-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2C73D2)
 ![](https://img.shields.io/badge/Libraries-Sklearn-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2C73D2)
